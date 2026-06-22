@@ -9,7 +9,7 @@ Technology**, Faculty of Electronics and Information Technology.
 The device authorizes access using a **fingerprint** reader together with **NFC**
 and **BLE** communication, built around the **BL54L15u (Nordic nRF54L15)** radio module.
 
-> 📷 *[Add a photo of the assembled board or a 3D render of the PCB from Altium here — this is the single most important part of the README.]*
+![PCB](docs/img/pcb_render.png)
 
 ---
 
